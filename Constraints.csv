@@ -1,0 +1,10 @@
+,check,check_level,check_status,constraint,constraint_status,constraint_message
+0,ADS-B Review Check,Warning,Success,"MinimumConstraint(Minimum(latitude,None))",Success,
+1,ADS-B Review Check,Warning,Success,"MaximumConstraint(Maximum(latitude,None))",Success,
+2,ADS-B Review Check,Warning,Success,"MinimumConstraint(Minimum(longitude,None))",Success,
+3,ADS-B Review Check,Warning,Success,"MaximumConstraint(Maximum(longitude,None))",Success,
+4,ADS-B Review Check,Warning,Success,"MinimumConstraint(Minimum(altitude,None))",Success,
+5,ADS-B Review Check,Warning,Success,"MaximumConstraint(Maximum(altitude,None))",Success,
+6,ADS-B Review Check,Warning,Success,"MaximumConstraint(Maximum(track,None))",Success,
+7,ADS-B Review Check,Warning,Success,"CompletenessConstraint(Completeness(hex_ident,None))",Success,
+8,ADS-B Review Check,Warning,Success,"ComplianceConstraint(Compliance(ground_speed is non-negative,COALESCE(CAST(ground_speed AS DECIMAL(20,10)), 0.0) >= 0,None))",Success,
