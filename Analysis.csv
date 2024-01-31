@@ -5,16 +5,8 @@ altitude,Minimum,-300.0
 ground_speed,Maximum,9618.885009701968
 ground_speed,Mean,354.8652671486167
 ground_speed,Minimum,0.0
-altitude,ApproxQuantiles-0.25,8825.0
-altitude,ApproxQuantiles-0.5,28000.0
-altitude,ApproxQuantiles-0.75,36000.0
-altitude,ApproxQuantiles-0.99,43000.0
 emergency,Completeness,0.2140536818999734
 callsign,Completeness,0.246772055480548
 "altitude,ground_speed",Correlation,0.8853787671241918
-ground_speed,ApproxQuantiles-0.25,258.9
-ground_speed,ApproxQuantiles-0.5,397.7
-ground_speed,ApproxQuantiles-0.75,457.9
-ground_speed,ApproxQuantiles-0.99,9618.885009701968
 squawk,Completeness,0.2469407266507349
 track,Completeness,0.9979437450979941
